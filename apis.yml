@@ -1,0 +1,7 @@
+aid: monster-beverage
+url: https://raw.githubusercontent.com/api-evangelist/monster-beverage/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.monster-beverage.com
