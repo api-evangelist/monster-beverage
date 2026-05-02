@@ -1,33 +1,37 @@
 # Monster Beverage (monster-beverage)
-Monster Beverage is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Monster Beverage.
+
+Monster Beverage Corporation is a marketer and distributor of energy drinks and alternative beverages, offering brands including Monster Energy, Reign, NOS, Burn, Mother, Relentless, and Predator. It is a Fortune 500 company headquartered in Corona, California.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/monster-beverage/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
+- **Type:** Index
 - **Position:** Consuming
 - **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Fortune 500
+- Beverages
+- Consumer Goods
+- Energy Drinks
+- Fortune 500
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public APIs have been documented for Monster Beverage. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.monster-beverage.com)
+- [Website](https://www.monsterbevcorp.com)
+- [Brand: Monster Energy](https://www.monsterenergy.com)
 
 ## Maintainers
 
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+- **FN:** Kin Lane
+- **Email:** kin@apievangelist.com
