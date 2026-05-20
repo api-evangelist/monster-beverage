@@ -17,6 +17,8 @@ url: https://raw.githubusercontent.com/api-evangelist/monster-beverage/refs/head
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/monster-beverage
   - type: Website
     url: https://www.monsterbevcorp.com
   - type: Brand
