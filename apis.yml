@@ -17,6 +17,8 @@ url: https://raw.githubusercontent.com/api-evangelist/monster-beverage/refs/head
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/monster-beverage-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/monster-beverage
   - type: Website
