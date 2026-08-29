@@ -5,6 +5,17 @@ description: >-
   beverages, offering brands including Monster Energy, Reign, NOS, Burn, Mother, Relentless,
   and Predator. It is a Fortune 500 company headquartered in Corona, California.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
