@@ -1,7 +1,9 @@
 ---
 title: Monster Beverage Corporation ($MNST)
 url: https://trendspider.com/learning-center/monster-beverage-corporation-mnst/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Monster Beverage" press release artificial intelligence'
 position: 4
 source: serpapi-google

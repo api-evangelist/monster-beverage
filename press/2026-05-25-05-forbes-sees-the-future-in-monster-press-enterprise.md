@@ -1,7 +1,9 @@
 ---
 title: Forbes sees the future in Monster - Press Enterprise
 url: https://www.pressenterprise.com/2016/08/29/forbes-sees-the-future-in-monster/
-date: '2026-05-25'
+published: '2016-08-29'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Monster Beverage" press release artificial intelligence'
 position: 5
 source: serpapi-google

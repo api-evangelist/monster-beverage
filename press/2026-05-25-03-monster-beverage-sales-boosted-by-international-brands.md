@@ -1,7 +1,9 @@
 ---
 title: Monster Beverage Sales Boosted by International Brands, ...
 url: https://www.wsj.com/business/earnings/monster-beverage-sales-boosted-by-international-brands-weaker-dollar-785b5c96
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Monster Beverage" press release artificial intelligence'
 position: 3
 source: serpapi-google

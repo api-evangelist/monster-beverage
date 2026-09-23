@@ -1,7 +1,9 @@
 ---
 title: Form 10-K for Monster Beverage Corp filed 02/29/2024
 url: https://investors.monsterbevcorp.com/static-files/4634293b-bdda-43f8-9cc5-ddca58ecf08b
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Monster Beverage" press release artificial intelligence'
 position: 2
 source: serpapi-google
